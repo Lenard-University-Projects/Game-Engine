@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GameComponent.cpp
+  Game.cpp
+  DrawableGameComponent.cpp
+c:\users\boowman\documents\visual studio 2015\projects\advancedprogrammingtask1\advancedprogrammingtask1\drawablegamecomponent.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AdvancedProgrammingTask1.cpp
+  Generating Code...
+  AdvancedProgrammingTask1.vcxproj -> c:\users\boowman\documents\visual studio 2015\Projects\AdvancedProgrammingTask1\Debug\AdvancedProgrammingTask1.exe
+  AdvancedProgrammingTask1.vcxproj -> c:\users\boowman\documents\visual studio 2015\Projects\AdvancedProgrammingTask1\Debug\AdvancedProgrammingTask1.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AdvancedProgrammingTask1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  GameComponent.cpp
+  Game.cpp
+  DrawableGameComponent.cpp
+c:\users\boowm\desktop\simplegameenginetask1\simplegameenginetask1\drawablegamecomponent.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimpleGameEngineTask1.cpp
+  Generating Code...
+  AdvancedProgrammingTask1.vcxproj -> C:\Users\boowm\Desktop\SimpleGameEngineTask1\x64\Debug\SimpleGameEngineTask1.exe
+  AdvancedProgrammingTask1.vcxproj -> C:\Users\boowm\Desktop\SimpleGameEngineTask1\x64\Debug\SimpleGameEngineTask1.pdb (Full PDB)
